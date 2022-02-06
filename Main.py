@@ -6,7 +6,7 @@ from tkinter import *
 import pickle
 
 # init database
-dbsel = dbcon.connect(user="root", passwd="Pranjali@2119", host="localhost", database="bankpydb")
+dbsel = dbcon.connect(user="root", passwd="admin", host="localhost", database="bank")
 dbcurse = dbsel.cursor(Buffered=True)
 
 # create db or except
