@@ -19,7 +19,7 @@
  <p>Any further versions will be committed and updated based on verison.</p>
 </details> 
     
-#⚛️ Frameworks, Languages & Other Tools
+# ⚛️ Frameworks, Languages & Other Tools
   <p align="center">
     <img src="https://img.shields.io/badge/-PYTHON-green?style=for-the-badge&color=FFD43B&logo=python&logoColor=white" alt="python" /> 
     <img src="https://img.shields.io/badge/-MySQL-green?style=for-the-badge&logo=MySQL&logoColor=white&color=00758F" alt="mysql" />
