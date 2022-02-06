@@ -2,7 +2,7 @@
 print("****BANK TRANSACTION****")
 #creating database
 import mysql.connector
-mydb=mysql.connector.connect (host="localhost",user="root", passwd="Pranjali@2119")
+mydb=mysql.connector.connect (host="localhost",user="root", passwd="admin")
 mycursor=mydb.cursor()
 mycursor.execute("create database if not exists bank")
 mycursor.execute("use bank")
