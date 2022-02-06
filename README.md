@@ -3,15 +3,8 @@
  </p>
 
  <p align="center">
-    <a href="https://gurjeet.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" width="130" height="22">
-    <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
-    <img src="https://img.shields.io/badge/Edit-Working...-brightgreen?style=for-the-badge&logo=Textpattern&logoColor=white" width="150" height="22">
-    <a href="https://discordapp.com/users/916597112882495510" target="_blank">
-    <img src="https://img.shields.io/badge/@Guri-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="80" height="22">
-    <a href="https://leetcode.com/gurjeetsinghvirdee/" target="_blank">
-    <img src="https://img.shields.io/badge/@gurjeetsinghvirdee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="150" height="22">
-    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, Hello-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
+    <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Edit-Working...-brightgreen?style=for-the-badge&logo=Textpattern&logoColor=white">
  </p>
  
   
