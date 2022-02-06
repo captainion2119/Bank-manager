@@ -16,12 +16,13 @@
 ##  
      
 <details><summary> Current version v0.1 </summary>
+ <p>Any further versions will be committed and updated based on verison.</p>
 </details> 
   
 <details>  
   <summary>⚛️ Frameworks, Languages & Other Tools</summary>
   <p align="center">
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" /> 
+    <img src="https://img.shields.io/badge/-PYTHON-green?style=for-the-badge&color=FFD43B&logo=python&logoColor=white" alt="python" /> 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
