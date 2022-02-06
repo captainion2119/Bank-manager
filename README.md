@@ -3,7 +3,7 @@
  </p>
 
  <p align="center">
-    <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-STATUS-red?style=for-the-badge&logo=AdBlock&logoColor=white&color=910508">
     <img src="https://img.shields.io/badge/Edit-Working...-brightgreen?style=for-the-badge&logo=Textpattern&logoColor=white">
  </p>
 
