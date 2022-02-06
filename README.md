@@ -29,6 +29,3 @@
 
 ## 📊 Development stats
 <a href="https://wakatime.com/badge/user/0f114570-49f0-4757-8a26-ea8f48087145/project/be43b368-22fb-4f8a-8e9a-a7d61b1fd169"><img src="https://wakatime.com/badge/user/0f114570-49f0-4757-8a26-ea8f48087145/project/be43b368-22fb-4f8a-8e9a-a7d61b1fd169.svg" alt="wakatime"></a>
-
-
-<a href="https://wakatime.com/badge/github/captainion2119/Bank-manager"><img src="https://wakatime.com/badge/github/captainion2119/Bank-manager.svg" alt="wakatime"></a>
