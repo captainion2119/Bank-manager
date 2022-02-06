@@ -27,43 +27,8 @@
   </p>  
   
 
-## 📊 Weekly Developement Breakdown
-  
-<!--START_SECTION:waka-->
-```text
-JavaScript   2 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   42.61 % 
-HTML         1 hr 19 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.15 % 
-Markdown     39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Other        37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-JSON         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-```
-<!--END_SECTION:waka--> 
+## 📊 Development stats
+<a href="https://wakatime.com/badge/user/0f114570-49f0-4757-8a26-ea8f48087145/project/be43b368-22fb-4f8a-8e9a-a7d61b1fd169"><img src="https://wakatime.com/badge/user/0f114570-49f0-4757-8a26-ea8f48087145/project/be43b368-22fb-4f8a-8e9a-a7d61b1fd169.svg" alt="wakatime"></a>
 
-<a href="https://wakatime.com/@ff7098eb-56b3-4619-bbbb-86aad0fce365"><img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" alt="Total time coded since Jul 28 2021" /></a>
-  
-    
-## 📚 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How to make a Custom Error page in Next.js](https://gurjeet.hashnode.dev/how-to-make-a-custom-error-page-in-nextjs)
-- [Top 5 Python Frameworks for Web Applications in 2022](https://gurjeet.hashnode.dev/top-5-python-frameworks-for-web-applications-in-2022)
-- [10 Best Elementor Themes in 2022](https://gurjeet.hashnode.dev/10-best-elementor-themes-in-2022)
-<!-- BLOG-POST-LIST:END -->  
-  
-##
-   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
-</p>
-  
-##
-  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
-</p>
 
-<p align="center">
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
-  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 
-</p> 
+<a href="https://wakatime.com/badge/github/captainion2119/Bank-manager"><img src="https://wakatime.com/badge/github/captainion2119/Bank-manager.svg" alt="wakatime"></a>
