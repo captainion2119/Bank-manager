@@ -6,23 +6,16 @@
     <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Edit-Working...-brightgreen?style=for-the-badge&logo=Textpattern&logoColor=white">
  </p>
- 
-  
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">  
 
 <ul align="left">
-  <li> 🏫 Currently learning DSA </li>
-  <li> 🚀 DM me for collab! </li>
+  <li> This is a work under progress. </li>
+  <li> Feel free to contribute! </li>
   <li> 💬 Ask me about Anything </li>
-  <li> 📕 Read My Articles at 
-   <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
- </li>
 </ul>  
   
 ##  
      
-<details><summary>🏆 Github Trophies </summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
+<details><summary> Current version v0.1 </summary>
 </details> 
   
 <details>  
