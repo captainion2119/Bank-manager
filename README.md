@@ -10,7 +10,6 @@
 <ul align="left">
   <li> This is a work under progress. </li>
   <li> Feel free to contribute! </li>
-  <li> 💬 Ask me about Anything </li>
 </ul>  
   
 ##  
