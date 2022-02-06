@@ -8,7 +8,7 @@
  </p>
 
 <ul align="left">
-  <li> This is a work under progress. </li>
+  <li> This is a work in progress. </li>
   <li> Feel free to contribute! </li>
 </ul>  
   
