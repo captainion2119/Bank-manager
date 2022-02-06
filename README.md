@@ -4,7 +4,7 @@
 
  <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-th-badge&logo=python&logoColor=white" width="130" height="22">
+    <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" width="130" height="22">
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
     <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22">
     <a href="https://discordapp.com/users/916597112882495510" target="_blank">
