@@ -15,9 +15,13 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "python start"
+          name: "install tkinter"
           command: "python install tkinter"
+      - run:
+          name: "install pymysql"
           command: "python install pymysql"
+      - run:
+          name: "main run"
           command: "python3 tkpy.py"
 
 # Invoke jobs via workflows
