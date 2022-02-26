@@ -16,10 +16,10 @@ jobs:
       - checkout
       - run:
           name: "install tkinter"
-          command: "python install tkinter"
+          command: "pip install tkinter"
       - run:
           name: "install pymysql"
-          command: "python install pymysql"
+          command: "pip install pymysql"
       - run:
           name: "main run"
           command: "python3 tkpy.py"
