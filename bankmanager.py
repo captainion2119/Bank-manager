@@ -291,9 +291,6 @@ def menu():
     Label(menu_screen, text="").pack()
     Button(menu_screen, text="Balance", height="2", width="30", fg='black', bg='orange', command=balance).pack()
     Label(menu_screen, text="").pack()
-    Button(menu_screen, text="FUND TRANSFER", height="2", width="30", fg='black', bg='orange',
-           command=fund_transfer).pack()
-    Label(menu_screen, text="").pack()
     Button(menu_screen, text="logout", height="2", width="10", fg='black', bg='orange', command=logout2).pack()
     Label(menu_screen, text="").pack
 
