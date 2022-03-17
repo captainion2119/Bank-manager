@@ -184,7 +184,7 @@ def deposit():
     deposit_screen = Toplevel(main_screen)
     deposit_screen.title("deposit")
     deposit_screen.geometry("3000x2500")
-    Label(deposit_screen, text="Please enter details below to login").pack()
+    Label(deposit_screen, text="Please enter details below to deposit").pack()
     Label(deposit_screen, text="").pack()
 
     name_lable = Label(deposit_screen, text="name * ")
@@ -245,7 +245,7 @@ def withdraw():
     withdraw_screen = Toplevel(main_screen)
     withdraw_screen.title("Withdraw")
     withdraw_screen.geometry("3000x2500")
-    Label(withdraw_screen, text="Please enter details below to login").pack()
+    Label(withdraw_screen, text="Please enter details below to withdraw").pack()
     Label(withdraw_screen, text="").pack()
 
     name_lable = Label(withdraw_screen, text="name * ")
@@ -331,3 +331,6 @@ def main_account_screen():
 
 
 main_account_screen()
+
+
+# https://the-docs.com/documents/dd8b728b-962b-4a4a-bab1-5b05499c7787/edit?version=7f0d2e44-5a06-4b2c-9a60-8baaef315de8
