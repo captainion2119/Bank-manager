@@ -223,10 +223,11 @@ def save():
     conn = sql.connect(host='localhost',user='root', passwd='admin', db='practical_progs')
     cur = conn.cursor()
     # eno=int(account_entry.get())
+    name = n1.get()
     account = int(a1.get())
     amount = int(am1.get())
     ifsc = int(if1.get())
-    i = cur.execute("insert into emp3 values(name,%d,%d,%d)" %(account, amount, ifsc))
+    i = cur.execute("insert into emp3 values("+"'"+str(name)+"'"+",%d,%d,%d)" %(account, amount, ifsc))
     conn.commit()
     msg.showinfo('Information', 'Record Saved')
     a1.delete(0, 'end')
@@ -295,6 +296,7 @@ def menu():
 
 def logout2():
     menu_screen.destroy()
+    login_success_screen.destroy()
 
 
 
