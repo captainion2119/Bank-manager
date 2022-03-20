@@ -289,8 +289,6 @@ def menu():
     Label(menu_screen, text="").pack()
     Button(menu_screen, text="Withdraw", height="2", width="30", fg='black', bg='orange', command=withdraw).pack()
     Label(menu_screen, text="").pack()
-    Button(menu_screen, text="Balance", height="2", width="30", fg='black', bg='orange', command=balance).pack()
-    Label(menu_screen, text="").pack()
     Button(menu_screen, text="logout", height="2", width="10", fg='black', bg='orange', command=logout2).pack()
     Label(menu_screen, text="").pack
 
@@ -298,14 +296,6 @@ def menu():
 def logout2():
     menu_screen.destroy()
 
-
-def balance():
-    global balance_screen
-    balance_screen = Toplevel(main_screen)
-    balance_screen.title("balance enquiry")
-    withdraw_screen.geometry("300x250")
-    Label(withdraw_screen, text="Please enter details below to login").pack()
-    Label(withdraw_screen, text="").pack()
 
 
 def main_account_screen():

@@ -38,3 +38,15 @@ for row in result:
     print(row)
 print("query 4 success!")
 
+cursor.execute('select * from loan_accounts where not Int_rate="Null"')
+result = cursor.fetchall()
+for row in result:
+    print(row)
+print("query 5 success!")
+
+cursor.execute('select * from loan_accounts where int_rate is NULL')
+result = cursor.fetchall()
+for row in result:
+    print(row)
+print("query 6 success!")
+
